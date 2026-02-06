@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "title": "Definir la IA más allá del 'Efecto Eliza'",
+    "image": "assets/units/p1.png",
+    "content": "La Inteligencia Artificial es una tecnología asentada cuyo objetivo original fue diseñar sistemas similares a la inteligencia humana para revelar estructuras de la materia o el origen del universo; hoy, su foco es la transformación de la vida y el trabajo. En este contexto, es vital evitar el 'Efecto Eliza', que es la tendencia a creer que los comportamientos de una IA son análogos a los humanos en intenciones o emociones. Este fenómeno recibe su nombre de un programa de los años 60 con el que los usuarios chateaban creyéndolo humano, a pesar de su falta de sofisticación real."
+  },
+  {
+    "id": 1,
+    "title": "Seis décadas de evolución acelerada",
+    "image": "assets/units/p2.png",
+    "content": "Desde que surgió el término en 1955, la IA ha avanzado rápidamente mediante hitos clave como Eliza (1964), la victoria de Deep Blue sobre Kasparov (1997), el lanzamiento de Roomba (2002), Siri (2011) y la llegada de chips neuromórficos a smartphones en 2017. Esta evolución no ha sido lineal, ya que la capacidad de procesamiento ha experimentado saltos drásticos que hoy permiten funciones avanzadas como el reconocimiento facial y la toma de decisiones complejas en tiempo real."
+  },
+  {
+    "id": 2,
+    "title": "Clasificación y tipologías de la inteligencia",
+    "image": "assets/units/p3.png",
+    "content": "La IA se clasifica según su capacidad en IA Débil, que son los sistemas actuales diseñados para tareas concretas sin conciencia, e IA Fuerte, una posibilidad teórica con razonamiento humano aún no alcanzada. En cuanto a su arquitectura, podemos distinguir entre la IA Simbólica (basada en reglas lógicas), las Redes Neuronales (que aprenden de datos imitando el cerebro biológico) y la IA Híbrida, que combina ambos enfoques para maximizar la precisión de los resultados."
+  },
+  {
+    "id": 3,
+    "title": "La automatización y la optimización de procesos",
+    "image": "assets/units/p4.png",
+    "content": "La IA se manifiesta en herramientas cotidianas como los asistentes virtuales (Siri, Alexa, Cortana) y los chatbots empresariales que ofrecen soporte 24/7. Además, impulsa el análisis predictivo en sectores como la banca y las telecomunicaciones para prever tendencias de negocio, y es fundamental en la conducción autónoma de marcas como Tesla y Ford, donde el uso de cámaras y sensores permite analizar el entorno y tomar decisiones críticas de navegación."
+  },
+  {
+    "id": 4,
+    "title": "Impacto sectorial: Comercio y Logística",
+    "image": "assets/units/p5.png",
+    "content": "En el comercio, empresas como Amazon utilizan la IA para la predicción de éxito de productos antes de su publicación y para personalizar ofertas basadas en patrones de consumo. Por su parte, en logística y transporte, la IA facilita la gestión de rutas dinámicas mediante camiones autónomos que se comunican en red para evitar atascos, optimizando la eficiencia global al informar constantemente al sistema central sobre el estado del tráfico."
+  },
+  {
+    "id": 5,
+    "title": "Impacto sectorial: Salud, Finanzas y Agricultura",
+    "image": "assets/units/p6.png",
+    "content": "En sanidad, los algoritmos ya interpretan radiografías más rápido que los humanos y los sistemas expertos analizan factores genéticos para diagnósticos precisos. En el sector financiero, la IA es clave para la detección de fraude en tiempo real y el asesoramiento en inversiones. Finalmente, en la agricultura, el uso de sensores, machine learning y drones permite gestionar cultivos de forma eficiente, prever impactos ambientales y realizar tareas de plantación o detección de fugas."
+  },
+  {
+    "id": 6,
+    "title": "Minería de datos: La base de la rentabilidad",
+    "image": "assets/units/p7.png",
+    "content": "La minería de datos es un proceso estructurado que comienza con la obtención y recolección de bases de datos operacionales, seguido de una limpieza para filtrar inconsistencias. Posteriormente, se realiza la preparación mediante la transformación y reducción de dimensionalidad, para finalizar con la aplicación de modelos y algoritmos que permiten evaluar y encontrar patrones de valor no sospechados que impulsan la rentabilidad."
+  },
+  {
+    "id": 7,
+    "title": "La jerarquía del aprendizaje: ML vs. Deep Learning",
+    "image": "assets/units/p8.png",
+    "content": "El Aprendizaje Automático (Machine Learning) se encarga de entrenar algoritmos utilizando grandes volúmenes de datos para establecer correlaciones y predicciones. Como una subcategoría más avanzada se encuentra el Aprendizaje Profundo (Deep Learning), el cual utiliza Redes Neuronales y algoritmos matemáticos complejos creados a semejanza del cerebro humano para tareas de alta especialización como la visión artificial y el procesamiento de lenguaje natural (NLP)."
+  },
+  {
+    "id": 8,
+    "title": "Redes Neuronales: Imitando la biología",
+    "image": "assets/units/p9.png",
+    "content": "Las redes neuronales permiten el desarrollo de la visión artificial para extraer información valiosa de imágenes y vídeos, así como del Procesamiento de Lenguaje Natural (NLP) para entender el habla y el texto humano. Estos sistemas son fundamentales para el reconocimiento de patrones, permitiendo identificar estructuras complejas incluso en conjuntos de datos no supervisados."
+  },
+  {
+    "id": 9,
+    "title": "Lenguajes de programación y librerías",
+    "image": "assets/units/p10.png",
+    "content": "Python destaca como el lenguaje más popular en este campo gracias a su amplio ecosistema de bibliotecas. Junto a él, se utiliza R (a través de plataformas como RPubs) principalmente para el análisis estadístico y la minería de datos. Asimismo, TensorFlow, el framework desarrollado por Google, es una herramienta esencial que facilita la creación y el entrenamiento de redes neuronales y modelos avanzados de machine learning."
+  },
+  {
+    "id": 10,
+    "title": "IA y Protección de Datos: El marco legal (GDPR)",
+    "image": "assets/units/p11.png",
+    "content": "El marco legal del GDPR regula prácticas como el scraping o recopilación masiva de datos sin consentimiento, que puede vulnerar derechos fundamentales. Para proteger la privacidad, se recurre a la seudonimización, que permite trabajar con datos sin identificar directamente a las personas, y se garantiza el derecho al borrado para que cualquier usuario pueda eliminar su información personal de forma sencilla."
+  },
+  {
+    "id": 11,
+    "title": "Dilemas éticos y sesgos algorítmicos",
+    "image": "assets/units/p12.png",
+    "content": "La ética en la IA prohíbe la recolección de datos antropométricos y biométricos en tiempo real sin orden judicial para evitar abusos. Es crucial combatir el sesgo algorítmico, ya que si los datos de entrenamiento están sesgados, el resultado será discriminatorio. Por ello, la supervisión humana es indispensable para evitar errores catastróficos, siguiendo la premisa de Tim Cook de asegurar que la IA beneficie a la humanidad en lugar de perjudicarla."
+  },
+  {
+    "id": 12,
+    "title": "Las 6 Leyes de la Robótica (Parlamento Europeo)",
+    "image": "assets/units/p13.png",
+    "content": "El Parlamento Europeo propone un marco regulador que incluye la obligatoriedad de un interruptor de emergencia y el principio de no hacer daño. Además, establece que no se deben generar vínculos afectivos o relaciones emocionales con robots, la obligatoriedad de un seguro para máquinas de gran envergadura, una clasificación legal de derechos y obligaciones, y la posibilidad de que las máquinas tributen a la Seguridad Social."
+  },
+  {
+    "id": 13,
+    "title": "Horizonte Futuro: Computación Cuántica y Sociedad",
+    "image": "assets/units/p14.png",
+    "content": "La computación cuántica representa la próxima frontera tecnológica, con la promesa de resolver problemas complejos de manera eficiente y mejorar exponencialmente la capacidad de los algoritmos actuales, transformando profundamente la sociedad."
+  }
+]
