@@ -65,8 +65,8 @@ main{
         }
     }
 
-    .viewer {
-        
+    #viewer {
+        margin: 2em 0;
         div {
             margin-top: 2em;
         }
